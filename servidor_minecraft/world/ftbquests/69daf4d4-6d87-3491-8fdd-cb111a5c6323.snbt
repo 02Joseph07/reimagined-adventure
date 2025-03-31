@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "69daf4d46d8734918fddcb111a5c6323"
+	name: "iLG4"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1743458208532L
+		6F010E22CD886969: 1743458208532L
+		0000000000000001: 1743458208532L
+		744084D7C7EA8A6C: 1743458208532L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1743458208532L
+		6F010E22CD886969: 1743458208532L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
